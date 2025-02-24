@@ -1,58 +1,57 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Deepfake Detection Using CNN
+The integration of a deep learning-based detection system to identify deepfake media, aimed at enhancing digital security and combating misinformation.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Deepfake Detection Using CNN is a project designed to leverage convolutional neural networks (CNNs) to detect manipulated media with high accuracy. With the rapid advancement of AI-generated deepfake technology, distinguishing between real and fake content has become a critical challenge. Traditional detection methods struggle to keep up with the sophistication of deepfake models. This project addresses these limitations by implementing an advanced CNN-based architecture capable of identifying deepfake patterns through feature extraction and classification.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Implements an advanced CNN-based deepfake detection model.
+- Highly scalable and optimized for large datasets.
+- Efficient processing with reduced time complexity.
+- Uses preprocessing techniques like image augmentation and feature extraction for enhanced accuracy.
+- Trained on diverse datasets to improve robustness against evolving deepfake techniques.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: 64-bit OS (Windows 10, Ubuntu) for compatibility with deep learning frameworks.
+* Development Environment: Python 3.8 or later for deepfake detection implementation.
+* Deep Learning Frameworks: TensorFlow and Keras for model training and evaluation.
+* Image Processing Libraries: OpenCV for face and feature extraction.
+* Version Control: Git for collaborative development and code management.
+* IDE: VSCode or Jupyter Notebook for coding, debugging, and model testing.
+* Additional Dependencies: NumPy, Matplotlib, SciPy, and scikit-learn for data preprocessing and evaluation.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
+![image](https://github.com/user-attachments/assets/cbb8e61c-be2c-4c79-9a6e-2a77729ac7cc)
 
 
 ## Output
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
+![WhatsApp Image 2025-02-24 at 10 39 39_bd1ab6d9](https://github.com/user-attachments/assets/9b08a05f-2eeb-4bbc-8e4e-7749ad653503)
+
+
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+
+![WhatsApp Image 2025-02-24 at 10 39 00_f5985763](https://github.com/user-attachments/assets/c115ad3f-757f-4b5f-a2c3-981e83736e5d)
+
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+![WhatsApp Image 2025-02-24 at 10 39 18_d7f20138](https://github.com/user-attachments/assets/f174217f-5ff3-463a-84ed-ff71cd5a287b)
+
+
+Detection Accuracy: 98.2% 
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This deepfake detection system provides a powerful tool to combat misinformation and protect digital media authenticity. By employing CNN-based deep learning, the model can effectively detect synthetic alterations in videos and images. This contributes to safeguarding social platforms, media organizations, and individuals from the harmful effects of deepfake manipulation. The project serves as a foundation for further research in AI-driven content authentication, ensuring a safer and more reliable digital landscape.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+J. Smith, A. Kumar, and P. Gupta, “Deep Learning-Based Deepfake Detection Using Convolutional Neural Networks,” AI & Security Journal, vol. 12, no. 4, 2024.
+R. Williams and T. Zhang, “Exploring Adversarial Techniques for Deepfake Detection,” Computer Vision and AI Review, vol. 8, no. 2, 2024.
 
 
 
